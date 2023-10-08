@@ -18,7 +18,6 @@
 				break;
 			default:
 				echo "Uow, you are an ugly motherfuck**!";
-				break;
 		}
 	?>
 </body>
